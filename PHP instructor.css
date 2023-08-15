@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.header{
+    background-color: black;
+    padding: .5rem 0px;
+}
+.open-btn{
+    width: 80px;
+    height: 25px;
+    font-size: small;
+    margin-right: .5rem;
+}
+.input{
+    width: 24rem !important;
+    height: 3rem;
+    border-radius: 5px;
+    font-size: larger;
+}
+.span-41{
+    color: rgb(39, 232, 232);
+}
+.input-long-width{
+    width: 78rem;
+    height: 2rem;
+    border-radius: 5px;
+}
+.submit-btn{
+    background-color: blue;
+    color: white;
+    font-size: medium;
+    border: none;
+    border-radius: 5px;
+    margin-top: 1rem;
+    padding: .5rem;
+}
